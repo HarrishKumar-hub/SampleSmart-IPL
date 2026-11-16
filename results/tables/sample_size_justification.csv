@@ -1,0 +1,2 @@
+n_used,S,P,margin_mean_at_n,n_needed_for_margin_1,n_needed_for_margin_1.5,margin_prop_at_n,n_needed_for_prop_margin_0.02,interpretation
+1101,21.351568373724113,0.2488041174689676,1.2185,1584,744,0.0247,1620,"At n=1101, the 95% CI for the mean is ±1.22 runs and for the proportion is ±0.0247."

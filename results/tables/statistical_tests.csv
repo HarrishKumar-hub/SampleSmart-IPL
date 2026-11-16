@@ -1,0 +1,6 @@
+test,H0,F_value,p_value,decision
+One-Way ANOVA (Strata),μ_openers = μ_middle = μ_lower_middle = μ_tail,876.8563466251517,0.0,Reject H₀ (p = 0.0000e+00 < α = 0.05). The difference is statistically significant.
+One-Way ANOVA (Clusters: match_id),All match_id group means are equal,1.1660199010357724,0.00018388190596770366,Reject H₀ (p = 1.8388e-04 < α = 0.05). The difference is statistically significant.
+One-Way ANOVA (Systematic Samples),All k systematic sample means are equal,1.2614510808603432,0.22283813226102223,Fail to reject H₀ (p = 0.2228 ≥ α = 0.05). No significant difference.
+Normality Check (runs),runs follows a normal distribution,,7.004116036086179e-59,Reject H₀ (p = 7.0041e-59 < α = 0.05). The difference is statistically significant.
+F-test: SRSWOR vs Stratified-Prop,Var(SRSWOR) = Var(Stratified-Prop),1.1168629035659223,0.0669593064357783,Fail to reject H₀ (p = 0.0670 ≥ α = 0.05). No significant difference.
